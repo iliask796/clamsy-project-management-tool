@@ -16,13 +16,13 @@ API: <br/> https://github.com/iliask796/final-project-api
 
 ## Application Preview
 Homepage
-![homepage]() <br/> <br/>
+![homepage](assets/homepage.PNG) <br/> <br/>
 Workspace Manager
-![workspace-manager]() <br/> <br/>
+![workspace-manager](assets/workspace-manager.PNG) <br/> <br/>
 Workspace
-![workspace]() <br/> <br/>
+![workspace](assets/workspace.PNG) <br/> <br/>
 Profile
-![profile]() <br/> <br/>
+![profile](assets/profile.PNG) <br/> <br/>
 
 ### Presentation Link
 https://prezi.com/p/fqjogemyhuv7/?present=1
