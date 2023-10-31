@@ -15,3 +15,14 @@ React App: <br/> https://github.com/iliask796/final-project-react <br/> <br/>
 API: <br/> https://github.com/iliask796/final-project-api
 
 ## Application Preview
+Homepage
+![homepage](assets/1.png) <br/> <br/>
+Workspace Manager
+![workspace-manager](assets/2.png) <br/> <br/>
+Workspace
+![workspace](assets/3.png) <br/> <br/>
+Profile
+![profile](assets/4.png) <br/> <br/>
+
+### Presentation Link
+https://prezi.com/p/fqjogemyhuv7/?present=1
